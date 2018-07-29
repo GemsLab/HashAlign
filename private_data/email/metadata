@@ -1,0 +1,11 @@
+graph_type Undirected
+noise_level 0.02
+weighted_noise 1.0
+found_center M0
+number 1
+node_dir Data/email.nodes
+edge_label_dir None
+center_distance canberra
+node_attribute_number 53
+node_label 1
+preprocess_time 7.04450893402

@@ -1,0 +1,2 @@
+,GraphType,LSHType,avg_derived_final,avg_derived_netalign,avg_derived_rank,bandNumber,center_dist,center_id,correct_score,correct_score_upper,cos_num_plane,edge_label_dir,euc_width,filename,final_score,found_center,matching_time,netalign_score,nodeAttributeFile,noise_level,pairs_computed,preprocess_time,rank_score,rank_score_upper,threshold
+0,Undirected,Cosine,0.0,0.0,0.0,4.0,canberra,M0,0.994704324801,0.0,50.0,None,3.0,email,0.0,M0,12.0707099438,0.0,Data/email.nodes,0.02,0.0386783714747,7.04450893402,0.996910856134,0.0,0.2
