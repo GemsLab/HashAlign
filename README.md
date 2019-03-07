@@ -6,5 +6,15 @@
 
 <b>Affiliation</b>: University of Michigan, Ann Arbor
 
+Python2 is required because of `snap`'s requirement.
 
-The code will be available here shortly.
+Run: 
+```angular2
+pip install -r requirement.txt
+``` 
+to install necessary dependecies.
+
+To run the synthetic experiment on Facebook network, run:
+```angular2
+python exp_facebook.py
+```

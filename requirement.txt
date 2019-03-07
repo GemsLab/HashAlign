@@ -1,0 +1,11 @@
+numpy==1.15.4
+pandas==0.23.4
+pathlib2==2.3.3
+python-dateutil==2.7.5
+pytz==2018.7
+scandir==1.9.0
+scikit-learn==0.20.2
+scipy==1.2.0
+six==1.12.0
+sklearn==0.0
+snap===4.1.0-dev-macosx10.12.6-x64-py2.7
