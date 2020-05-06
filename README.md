@@ -6,6 +6,8 @@
 
 <b>Affiliation</b>: University of Michigan, Ann Arbor
 
+**Link**: https://gemslab.github.io/papers/heimann-2018-hashalign.pdf
+
 Python2 is required because of `snap`'s requirement.
 
 Run: 
